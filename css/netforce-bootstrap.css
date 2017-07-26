@@ -37,6 +37,9 @@ form label .label-link {
 form .btns .btn-block:first-child {
   margin-top: 20px;
 }
+.btn {
+  background-image: none !important;
+}
 .stepwizard-step p {
   margin-top: 10px;
 }
