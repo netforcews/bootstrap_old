@@ -1,21 +1,26 @@
 {
-    "name"       : "netforce-bootstrap",
-    "homepage"   : "https://github.com/netforcews/bootstrap",
-    "authors"    : [
+    "name"        : "netforce-bootstrap",
+    "homepage"    : "https://github.com/netforcews/bootstrap",
+    "authors"     : [
         "Bruno Gonçalves <bugotech@gmail.com>"
     ],
-    "description": "Bootstrap custom to NetForce.",
-    "keywords"   : [
-        "bootstrap", "netforce"
+    "description" : "Bootstrap custom to NetForce",
+    "keywords"    : [
+        "netforce", "bootstrap"
     ],
-    "license"    : "MIT",
-    "ignore"     : [
+    "license"     : "MIT",
+    "ignore"      : [
         "/.*",
         "/*.md",
-        "LICENSE"
+        "/config.json",
+        "/LICENSE",
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
     ],
-
-    "main": "js/bootstrap.min.js",
+    "main"        : "js/bootstrap.min.js",
 
     "dependencies": {
         "jquery": ">=1.9.1"
