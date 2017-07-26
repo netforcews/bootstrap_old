@@ -1,3 +1,4 @@
+/* Geral */
 /* Fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,300italic,300);
 .al-left {
@@ -12,9 +13,26 @@
 .clearboth {
   clear: both;
 }
+/* Components */
 .alert {
   font-weight: 400;
   background-image: none !important;
+}
+.btn {
+  background-image: none !important;
+}
+.brand-dialog img {
+  height: 40px;
+}
+form label {
+  display: block;
+}
+form label .label-link {
+  font-size: 12px;
+  float: right;
+}
+form .btns .btn-block:first-child {
+  margin-top: 20px;
 }
 .pt-1 {
   padding-top: 10px !important;
@@ -135,19 +153,6 @@
 }
 .pl-10 {
   padding-left: 100px !important;
-}
-form label {
-  display: block;
-}
-form label .label-link {
-  font-size: 12px;
-  float: right;
-}
-form .btns .btn-block:first-child {
-  margin-top: 20px;
-}
-.btn {
-  background-image: none !important;
 }
 .stepwizard-step p {
   margin-top: 10px;
