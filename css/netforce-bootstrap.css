@@ -12,6 +12,10 @@
 .clearboth {
   clear: both;
 }
+.alert {
+  font-weight: 400;
+  background-image: none !important;
+}
 .pt-1 {
   padding-top: 10px !important;
 }
