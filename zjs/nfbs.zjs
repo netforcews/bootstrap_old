@@ -1,0 +1,10 @@
+(function ($) {
+
+    $(document).ready(function () {
+
+        // Auto Focus
+        $('.focus:first').focus();
+
+    });
+
+})(window.jQuery);
