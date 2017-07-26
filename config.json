@@ -48,7 +48,7 @@
     "@padding-xs-horizontal": "5px",
     "@line-height-large": "1.3333333",
     "@line-height-small": "1.5",
-    "@border-radius-base": "2px",
+    "@border-radius-base": "3px",
     "@border-radius-large": "4px",
     "@border-radius-small": "2px",
     "@component-active-color": "#fff",
@@ -89,8 +89,8 @@
     "@input-bg-disabled": "@gray-lighter",
     "@input-color": "@gray",
     "@input-border": "#ccc",
-    "@input-border-radius": "@border-radius-base",
-    "@input-border-radius-large": "@border-radius-large",
+    "@input-border-radius": "@border-radius-base - 1px",
+    "@input-border-radius-large": "@border-radius-large - 2px",
     "@input-border-radius-small": "@border-radius-small",
     "@input-border-focus": "#66afe9",
     "@input-color-placeholder": "#999",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=a7c998f7b9636c483183f2f3ca6f632c"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=296f51a285ff3ff037fd799336c20bb9"
 }
