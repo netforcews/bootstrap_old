@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=5cc6d63f33ee368829cb588ccd432100)
- * Config saved to config.json and https://gist.github.com/5cc6d63f33ee368829cb588ccd432100
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=994c9f870230a4b365469341165f8f17)
+ * Config saved to config.json and https://gist.github.com/994c9f870230a4b365469341165f8f17
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -5607,7 +5607,7 @@ a.thumbnail.active {
   color: #333333;
 }
 .alert {
-  padding: 15px;
+  padding: 14px;
   margin-bottom: 18px;
   border: 1px solid transparent;
   border-radius: 2px;
@@ -5617,7 +5617,7 @@ a.thumbnail.active {
   color: inherit;
 }
 .alert .alert-link {
-  font-weight: bold;
+  font-weight: 400;
 }
 .alert > p,
 .alert > ul {
@@ -5628,7 +5628,7 @@ a.thumbnail.active {
 }
 .alert-dismissable,
 .alert-dismissible {
-  padding-right: 35px;
+  padding-right: 34px;
 }
 .alert-dismissable .close,
 .alert-dismissible .close {
