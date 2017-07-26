@@ -1,0 +1,23 @@
+{
+    "name"       : "netforce-bootstrap",
+    "homepage"   : "https://github.com/netforcews/bootstrap",
+    "authors"    : [
+        "Bruno Gonçalves <bugotech@gmail.com>"
+    ],
+    "description": "Bootstrap custom to NetForce.",
+    "keywords"   : [
+        "bootstrap", "netforce"
+    ],
+    "license"    : "MIT",
+    "ignore"     : [
+        "/.*",
+        "/*.md",
+        "LICENSE"
+    ],
+
+    "main": "js/bootstrap.min.js",
+
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
