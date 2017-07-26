@@ -36,9 +36,12 @@ form .btns .btn-block:first-child {
   margin-top: 20px;
 }
 .navbar-brand img {
-  height: 35px;
+  height: 30px;
   position: relative;
   top: -5px;
+}
+.nav .dropdown-toggle li.dropdown > a > img {
+  height: 19px;
 }
 .pt-1 {
   padding-top: 10px !important;
