@@ -1,15 +1,15 @@
 {
-    "name"        : "netforce-bootstrap",
-    "homepage"    : "https://github.com/netforcews/bootstrap",
-    "authors"     : [
+    "name"       : "netforce-bootstrap",
+    "homepage"   : "https://github.com/netforcews/bootstrap",
+    "authors"    : [
         "Bruno Gonçalves <bugotech@gmail.com>"
     ],
-    "description" : "Bootstrap custom to NetForce",
-    "keywords"    : [
+    "description": "Bootstrap custom to NetForce",
+    "keywords"   : [
         "netforce", "bootstrap"
     ],
-    "license"     : "MIT",
-    "ignore"      : [
+    "license"    : "MIT",
+    "ignore"     : [
         "/.*",
         "/*.md",
         "/config.json",
@@ -21,7 +21,9 @@
         "test",
         "tests"
     ],
-    "main"        : "js/bootstrap.min.js",
+    "main"       : [
+        "js/bootstrap.min.js"
+    ],
 
     "dependencies": {
         "font-awesome": "fontawesome#^4.6.3"
