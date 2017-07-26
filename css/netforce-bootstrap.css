@@ -27,6 +27,9 @@
 .pb-4 {
   padding-bottom: 24px !important;
 }
+form label {
+  display: block;
+}
 form label .label-link {
   font-size: 12px;
   float: right;
