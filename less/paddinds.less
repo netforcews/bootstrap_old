@@ -1,0 +1,20 @@
+@padding-level: (@padding-max / @padding-count);
+
+.make-padding(@i: 1) when (@i =< @padding-count) {
+  .pt-@{i} {
+    padding-top: (@i * @padding-level) !important;
+  }
+  .pr-@{i} {
+    padding-right: (@i * @padding-level) !important;
+  }
+  .pb-@{i} {
+    padding-bottom: (@i * @padding-level) !important;
+  }
+  .pl-@{i} {
+    padding-left: (@i * @padding-level) !important;
+  }
+
+  .make-padding((@i + 1));
+}
+
+.make-padding();
