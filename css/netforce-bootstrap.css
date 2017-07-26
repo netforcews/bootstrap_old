@@ -35,6 +35,11 @@ form label .label-link {
 form .btns .btn-block:first-child {
   margin-top: 20px;
 }
+.navbar-brand {
+  height: 35px;
+  position: relative;
+  top: -5px;
+}
 .pt-1 {
   padding-top: 10px !important;
 }
