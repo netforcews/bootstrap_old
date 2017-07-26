@@ -29,6 +29,7 @@ form label {
 }
 form label .label-link {
   font-size: 12px;
+  font-weight: 400;
   float: right;
 }
 form .btns .btn-block:first-child {
