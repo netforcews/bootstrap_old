@@ -266,9 +266,9 @@
     "@modal-lg": "900px",
     "@modal-md": "600px",
     "@modal-sm": "300px",
-    "@alert-padding": "14px",
+    "@alert-padding": "12px",
     "@alert-border-radius": "@border-radius-base",
-    "@alert-link-font-weight": "400",
+    "@alert-link-font-weight": "bold",
     "@alert-success-bg": "@state-success-bg",
     "@alert-success-text": "@state-success-text",
     "@alert-success-border": "@state-success-border",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=994c9f870230a4b365469341165f8f17"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=08eb5b0f114a19e66ef43dbec210cbf1"
 }
