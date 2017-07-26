@@ -82,8 +82,8 @@
     "@btn-danger-bg": "@brand-danger",
     "@btn-danger-border": "darken(@btn-danger-bg, 5%)",
     "@btn-link-disabled-color": "@gray-light",
-    "@btn-border-radius-base": "@border-radius-base",
-    "@btn-border-radius-large": "@border-radius-large",
+    "@btn-border-radius-base": "@border-radius-base - 1px",
+    "@btn-border-radius-large": "@border-radius-large - 2px",
     "@btn-border-radius-small": "@border-radius-small",
     "@input-bg": "#fff",
     "@input-bg-disabled": "@gray-lighter",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=296f51a285ff3ff037fd799336c20bb9"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=08314d93a86d0bbc01206479dc00803c"
 }

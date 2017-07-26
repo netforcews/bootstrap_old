@@ -5,8 +5,8 @@
  */
 
 /*!
- * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=296f51a285ff3ff037fd799336c20bb9)
- * Config saved to config.json and https://gist.github.com/296f51a285ff3ff037fd799336c20bb9
+ * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=08314d93a86d0bbc01206479dc00803c)
+ * Config saved to config.json and https://gist.github.com/08314d93a86d0bbc01206479dc00803c
  */
 /*!
  * Bootstrap v3.3.7 (http://getbootstrap.com)
@@ -3597,7 +3597,7 @@ select[multiple].input-lg {
   padding: 6px 12px;
   font-size: 13px;
   line-height: 1.42857143;
-  border-radius: 3px;
+  border-radius: 2px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -4018,7 +4018,7 @@ fieldset[disabled] .btn-link:focus {
   padding: 10px 16px;
   font-size: 17px;
   line-height: 1.3333333;
-  border-radius: 4px;
+  border-radius: 2px;
 }
 .btn-sm,
 .btn-group-sm > .btn {
@@ -4346,16 +4346,16 @@ tbody.collapse.in {
   border-radius: 0;
 }
 .btn-group-vertical > .btn:first-child:not(:last-child) {
-  border-top-right-radius: 3px;
-  border-top-left-radius: 3px;
+  border-top-right-radius: 2px;
+  border-top-left-radius: 2px;
   border-bottom-right-radius: 0;
   border-bottom-left-radius: 0;
 }
 .btn-group-vertical > .btn:last-child:not(:first-child) {
   border-top-right-radius: 0;
   border-top-left-radius: 0;
-  border-bottom-right-radius: 3px;
-  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 2px;
+  border-bottom-left-radius: 2px;
 }
 .btn-group-vertical > .btn-group:not(:first-child):not(:last-child) > .btn {
   border-radius: 0;
