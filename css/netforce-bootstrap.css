@@ -27,8 +27,12 @@
 .pb-4 {
   padding-bottom: 24px !important;
 }
-body {
-  margin: 40px;
+form label .label-link {
+  font-size: 12px;
+  float: right;
+}
+form .btns .btn-block:first-child {
+  margin-top: 20px;
 }
 .stepwizard-step p {
   margin-top: 10px;
